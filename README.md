@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently (still) learning **Python, SQL, BI Tools**
 
-- 👨‍💻 Some of my projects are available at [link](https://github.com/SergejKukoljac/Sergej_Project_football)
+- 👨‍💻 Some of my projects right [here](https://github.com/SergejKukoljac/Sergej_Project_football)
 
 - 📫 How to reach me **sergej.kukoljac@gmail.com**
 
-- 📄 Take a look at my experiences [link](https://www.linkedin.com/in/sergej-kukoljac-479b90193/?locale=en_US)
+- 📄 Take a look at my experiences on [LinkedIn](https://www.linkedin.com/in/sergej-kukoljac-479b90193/?locale=en_US)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
